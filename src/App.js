@@ -380,7 +380,8 @@ function App() {
       <footer>
         <strong>UrbanNest Realty</strong>
         <span>Luxury homes, private advisory, premium property intelligence.</span>
-        <a href="mailto:hello@urbannestrealty.in">hello@urbannestrealty.in</a>
+        <a href="mailto:hello@urbannestrealty.in">yashj@urbannestrealty.in</a>
+        <a href="https://sitecrafterz.netlify.app" target="_blank" rel="noopener noreferrer">Built by SiteCrafterz</a>
       </footer>
 
       <a className="whatsapp" href="https://wa.me/919999999999" aria-label="Chat with UrbanNest Realty on WhatsApp">
